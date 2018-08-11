@@ -11,6 +11,9 @@ Group 3
 ===
 
 Group 4
+
+'help.start()'
+license()
 ===
 
 Group 5
